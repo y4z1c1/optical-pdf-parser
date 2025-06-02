@@ -1,0 +1,170 @@
+Page 1:
+The 5 Elements of UX
+
+Surface
+
+Visual design
+
+Skeleton
+Information, interface
+and navigation design
+
+Structure
+
+Interaction design and
+information architecture
+
+Scope
+
+Features and content
+requirements
+
+Strategy
+
+User needs and
+business goals
+
+sahibinden.com
+
+
+
+Page 2:
+The 7 factors that influence UX ‘sahibinden.com
+
+Useful
+Usable Accessible
+Valuable
+Findable Desirable
+Credible
+
+12/41
+
+
+Page 3:
+The 7 factors that influence UX ‘sahibinden.com
+
+Usable Accessible
+Useful
+Valuable A product should first have a reason to exist. If it solves a
+problem or meets a need, it is useful.
+Findable Desirable
+Credible
+
+13/41
+
+
+Page 4:
+The 7 factors that influence UX ‘sahibinden.com
+
+Useful
+Usable Accessible
+Usable
+Valuable If your product is easy to understand and use, your users
+will have a better experience.
+Findable Desirable
+Credible
+
+14/41
+
+
+Page 5:
+The 7 factors that influence UX
+
+Useful
+Usable
+Valuable
+Findable
+Credible
+
+Accessible
+
+Desirable
+
+Findable
+
+When users interact with your product, they should be able
+
+to find all of its useful and usable features and functions.
+
+15/41
+
+
+Page 6:
+The 7 factors that influence UX ‘sahibinden.com
+
+Useful
+Usable Accessible
+Credible
+Valuable Trust is the foundation of all interactions. CUstomers expect
+our products to be reliable and to meet their needs.
+Findable Desirable
+Credible
+
+16/41
+
+
+Page 7:
+The 7 factors that influence UX ‘sahibinden.com
+
+Useful
+Usable Accessible Desirable
+Emotions play a big role in user experience. When all other factors
+Valuable are equal, customers will always choose the product that looks
+and feels better.
+Findable Desirable
+Credible
+
+17/41
+
+
+Page 8:
+The 7 factors that influence UX ‘sahibinden.com
+
+Useful
+Usable Accessible
+Accessible
+Valuable Our products should serve all users, including people with
+disabilities. When we create accessible products, we make
+them easier for everyone to use.
+Findable Desirable
+Credible
+
+18/41
+
+
+Page 9:
+The 7 factors that influence UX
+
+Useful
+Usable Accessible
+Valuable
+Findable Desirable
+Credible
+
+Valuable
+
+At the heart of the honeycomb structure there is value — for
+both customers and creators. For customers, value is the
+result of the other six factors combined.
+
+19/41
+
+
+Page 10:
+Introduction to usability ‘sahibinden.com
+
+Usability
+
+fee. Navigation
+\ Familiarity
+Ld Consistency
+| | Error prevention
+i Feedback
+
+Visual clarity
+
+Flexibility & efficiency
+
+20/41
+
+
